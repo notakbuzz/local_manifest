@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="notakbuzz"
+           fetch="https://github.com/hpnightowl"/>
+		   
+  <remote  name="lineage"
+           fetch="https://github.com/LineageOS"/>
+
+  <!-- device tree -->
+  <project path="device/asus/deb" name="android_device_asus_deb" remote="notakbuzz" revision="lineage-18.1"/>
+  
+</manifest>

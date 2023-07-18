@@ -8,6 +8,5 @@
            fetch="https://github.com/LineageOS"/>
 
   <!-- device tree -->
-  <project path="device/asus/deb" name="android_device_asus_deb" remote="notakbuzz" revision="lineage-18.1"/>
-  
+  <project path="device/asus/debx" name="android_device_asus_debx" remote="notakbuzz" revision="lineage-18.1"/>
 </manifest>
